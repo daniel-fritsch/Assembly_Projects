@@ -1,4 +1,6 @@
-**MIPS 4-Function Calculator
+MIPS 4-Function Calculator
+
+
 
 Basic 4 function calculator in MIPS assembly.
 
